@@ -1,0 +1,524 @@
+E:\iti\MVC Lab\Project\Project\bin\Project.dll.config
+E:\iti\MVC Lab\Project\Project\bin\Project.dll
+E:\iti\MVC Lab\Project\Project\bin\Project.pdb
+E:\iti\MVC Lab\Project\Project\bin\roslyn\csc.exe
+E:\iti\MVC Lab\Project\Project\bin\roslyn\csc.exe.config
+E:\iti\MVC Lab\Project\Project\bin\roslyn\csc.rsp
+E:\iti\MVC Lab\Project\Project\bin\roslyn\csi.exe
+E:\iti\MVC Lab\Project\Project\bin\roslyn\csi.exe.config
+E:\iti\MVC Lab\Project\Project\bin\roslyn\csi.rsp
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti\MVC Lab\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.AppContext.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Console.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.IO.Compression.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Net.Http.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Net.Sockets.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.ValueTuple.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Xml.XPath.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\iti\MVC Lab\Project\Project\bin\roslyn\vbc.exe
+E:\iti\MVC Lab\Project\Project\bin\roslyn\vbc.exe.config
+E:\iti\MVC Lab\Project\Project\bin\roslyn\vbc.rsp
+E:\iti\MVC Lab\Project\Project\bin\roslyn\VBCSCompiler.exe
+E:\iti\MVC Lab\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+E:\iti\MVC Lab\Project\Project\bin\Antlr3.Runtime.dll
+E:\iti\MVC Lab\Project\Project\bin\EntityFramework.dll
+E:\iti\MVC Lab\Project\Project\bin\EntityFramework.SqlServer.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+E:\iti\MVC Lab\Project\Project\bin\Newtonsoft.Json.dll
+E:\iti\MVC Lab\Project\Project\bin\System.Web.Helpers.dll
+E:\iti\MVC Lab\Project\Project\bin\System.Web.Mvc.dll
+E:\iti\MVC Lab\Project\Project\bin\System.Web.Optimization.dll
+E:\iti\MVC Lab\Project\Project\bin\System.Web.Razor.dll
+E:\iti\MVC Lab\Project\Project\bin\System.Web.WebPages.Deployment.dll
+E:\iti\MVC Lab\Project\Project\bin\System.Web.WebPages.dll
+E:\iti\MVC Lab\Project\Project\bin\System.Web.WebPages.Razor.dll
+E:\iti\MVC Lab\Project\Project\bin\WebGrease.dll
+E:\iti\MVC Lab\Project\Project\bin\EntityFramework.xml
+E:\iti\MVC Lab\Project\Project\bin\EntityFramework.SqlServer.xml
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\iti\MVC Lab\Project\Project\bin\System.Web.Helpers.xml
+E:\iti\MVC Lab\Project\Project\bin\System.Web.Mvc.xml
+E:\iti\MVC Lab\Project\Project\bin\System.Web.Optimization.xml
+E:\iti\MVC Lab\Project\Project\bin\System.Web.Razor.xml
+E:\iti\MVC Lab\Project\Project\bin\System.Web.WebPages.xml
+E:\iti\MVC Lab\Project\Project\bin\System.Web.WebPages.Deployment.xml
+E:\iti\MVC Lab\Project\Project\bin\System.Web.WebPages.Razor.xml
+E:\iti\MVC Lab\Project\Project\bin\Newtonsoft.Json.xml
+E:\iti\MVC Lab\Project\Project\bin\Antlr3.Runtime.pdb
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti\MVC Lab\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\iti\MVC Lab\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\iti\MVC Lab\Project\Project\obj\Debug\Project.csproj.CopyComplete
+E:\iti\MVC Lab\Project\Project\obj\Debug\Project.dll
+E:\iti\MVC Lab\Project\Project\obj\Debug\Project.pdb
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.Security.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+E:\iti\MVC Lab\Project\Project\bin\Owin.dll
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.xml
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.Security.xml
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+E:\iti\MVC Lab\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+E:\iti\MVC Lab\Project\Project\obj\Debug\Project.Migrations.step1.resources
+E:\iti\MVC Lab\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\iti\MVC Lab\Project\Project\obj\Debug\Project.Migrations.mm.resources
+E:\iti\MVC Lab\Project\Project\obj\Debug\Project.Migrations.step3.resources
+E:\iti\Project\Project\Project\bin\Project.dll.config
+E:\iti\Project\Project\Project\bin\Project.dll
+E:\iti\Project\Project\Project\bin\Project.pdb
+E:\iti\Project\Project\Project\bin\roslyn\csc.exe
+E:\iti\Project\Project\Project\bin\roslyn\csc.exe.config
+E:\iti\Project\Project\Project\bin\roslyn\csc.rsp
+E:\iti\Project\Project\Project\bin\roslyn\csi.exe
+E:\iti\Project\Project\Project\bin\roslyn\csi.exe.config
+E:\iti\Project\Project\Project\bin\roslyn\csi.rsp
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti\Project\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.AppContext.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Console.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.IO.Compression.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Net.Http.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Net.Sockets.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.ValueTuple.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Xml.XPath.dll
+E:\iti\Project\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\iti\Project\Project\Project\bin\roslyn\vbc.exe
+E:\iti\Project\Project\Project\bin\roslyn\vbc.exe.config
+E:\iti\Project\Project\Project\bin\roslyn\vbc.rsp
+E:\iti\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+E:\iti\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+E:\iti\Project\Project\Project\bin\Antlr3.Runtime.dll
+E:\iti\Project\Project\Project\bin\EntityFramework.dll
+E:\iti\Project\Project\Project\bin\EntityFramework.SqlServer.dll
+E:\iti\Project\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+E:\iti\Project\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\iti\Project\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\iti\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.dll
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.Security.dll
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+E:\iti\Project\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+E:\iti\Project\Project\Project\bin\Newtonsoft.Json.dll
+E:\iti\Project\Project\Project\bin\Owin.dll
+E:\iti\Project\Project\Project\bin\System.Web.Helpers.dll
+E:\iti\Project\Project\Project\bin\System.Web.Mvc.dll
+E:\iti\Project\Project\Project\bin\System.Web.Optimization.dll
+E:\iti\Project\Project\Project\bin\System.Web.Razor.dll
+E:\iti\Project\Project\Project\bin\System.Web.WebPages.Deployment.dll
+E:\iti\Project\Project\Project\bin\System.Web.WebPages.dll
+E:\iti\Project\Project\Project\bin\System.Web.WebPages.Razor.dll
+E:\iti\Project\Project\Project\bin\WebGrease.dll
+E:\iti\Project\Project\Project\bin\EntityFramework.xml
+E:\iti\Project\Project\Project\bin\EntityFramework.SqlServer.xml
+E:\iti\Project\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+E:\iti\Project\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\iti\Project\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.xml
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.Security.xml
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+E:\iti\Project\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+E:\iti\Project\Project\Project\bin\Newtonsoft.Json.xml
+E:\iti\Project\Project\Project\bin\System.Web.Helpers.xml
+E:\iti\Project\Project\Project\bin\System.Web.Mvc.xml
+E:\iti\Project\Project\Project\bin\System.Web.Optimization.xml
+E:\iti\Project\Project\Project\bin\System.Web.Razor.xml
+E:\iti\Project\Project\Project\bin\System.Web.WebPages.xml
+E:\iti\Project\Project\Project\bin\System.Web.WebPages.Deployment.xml
+E:\iti\Project\Project\Project\bin\System.Web.WebPages.Razor.xml
+E:\iti\Project\Project\Project\bin\Antlr3.Runtime.pdb
+E:\iti\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\iti\Project\Project\Project\obj\Debug\Project.Migrations.step1.resources
+E:\iti\Project\Project\Project\obj\Debug\Project.Migrations.mm.resources
+E:\iti\Project\Project\Project\obj\Debug\Project.Migrations.step3.resources
+E:\iti\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\iti\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\iti\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+E:\iti\Project\Project\Project\obj\Debug\Project.dll
+E:\iti\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Project.dll.config
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Project.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Project.pdb
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\csc.exe
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\csc.rsp
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\csi.exe
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\csi.rsp
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\vbc.exe
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\office\Downloads\Compressed\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Antlr3.Runtime.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\EntityFramework.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Newtonsoft.Json.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Owin.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.Helpers.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.Mvc.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.Optimization.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.Razor.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.WebPages.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\WebGrease.dll
+C:\Users\office\Downloads\Compressed\Project\Project\bin\EntityFramework.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.Razor.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\office\Downloads\Compressed\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.dll
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.pdb
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.Migrations.mm.resources
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.Migrations.step2.resources
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.Migrations.step3.resources
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.Migrations.step4.resources
+C:\Users\office\Downloads\Compressed\Project\Project\obj\Debug\Project.Migrations.step5.resources
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Project.dll.config
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Project.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Project.pdb
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\csc.exe
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\csc.rsp
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\csi.exe
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\csi.rsp
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\vbc.exe
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Antlr3.Runtime.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\EntityFramework.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Newtonsoft.Json.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Owin.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.Helpers.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.Mvc.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.Optimization.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.Razor.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.WebPages.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\WebGrease.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\EntityFramework.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.Razor.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\Mario\Desktop\Project (2)\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.Migrations.mm.resources
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.Migrations.step2.resources
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.Migrations.step3.resources
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.Migrations.step4.resources
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.Migrations.step5.resources
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.dll
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.pdb
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.Migrations.mariodbnew.resources
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.Migrations.mariogig2.resources
+C:\Users\Mario\Desktop\Project (2)\Project\Project\obj\Debug\Project.Migrations.dbup.resources
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Project.dll.config
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Project.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Project.pdb
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\csc.exe
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\csc.exe.config
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\csc.rsp
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\csi.exe
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\csi.exe.config
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\csi.rsp
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.AppContext.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Console.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.IO.Compression.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Net.Http.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Net.Sockets.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.ValueTuple.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Xml.XPath.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\vbc.exe
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\vbc.exe.config
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\vbc.rsp
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Antlr3.Runtime.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\EntityFramework.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\EntityFramework.SqlServer.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.Security.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Newtonsoft.Json.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Owin.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.Helpers.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.Mvc.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.Optimization.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.Razor.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.WebPages.Deployment.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.WebPages.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.WebPages.Razor.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\WebGrease.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\EntityFramework.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\EntityFramework.SqlServer.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.Security.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Newtonsoft.Json.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.Helpers.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.Mvc.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.Optimization.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.Razor.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.WebPages.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.WebPages.Deployment.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\System.Web.WebPages.Razor.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Antlr3.Runtime.pdb
+E:\iti\MVC Lab\MVC Final Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\iti\MVC Lab\MVC Final Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\iti\MVC Lab\MVC Final Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\iti\MVC Lab\MVC Final Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+E:\iti\MVC Lab\MVC Final Project\Project\Project\obj\Debug\Project.dll
+E:\iti\MVC Lab\MVC Final Project\Project\Project\obj\Debug\Project.pdb
+E:\iti\MVC Lab\MVC Final Project\Project\Project\obj\Debug\Project.Migrations.step1.resources
+E:\iti\MVC Lab\MVC Final Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache

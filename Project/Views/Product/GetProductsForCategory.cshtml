@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Project.Models.Product>
+@{
+    ViewBag.Title = "GetProductsForCategory";
+}
+    <style>
+        .body-content {
+            padding-left: 60px;
+            padding-right: 60px;
+            padding-top: 135px;
+        }
+
+        .home {
+    width: 100%;
+    background: #FFFFFF;
+    z-index: 2;
+        height: 355px;
+
+}
+    </style>
+
+<div class="home">
+    <div class="home_container">
+        <img class="img-fluid" src="~/Content/images/@ViewBag.img" alt="Card image" />
+    </div>
+</div>
+
+<div class="products">
+    <div class="container">
+        <div class="product_grid">
+            <div class="row">
+                <!-- Product -->
+                @foreach (var item in Model)
+                {
+                    <div class="product col-md-3">
+                        <div class="product_image"><img src="~/Content/images/@item.image" alt=""></div>
+                        <div class="product_extra product_new">New</div>
+                        <div class="product_content">
+                            <div class="product_title"><a href="product.html">@Html.DisplayFor(modelItem => item.Name)</a></div>
+                            <div class="product_price">@Html.DisplayFor(modelItem => item.price) LE</div><br/>
+                            @Html.ActionLink("Detalis", "Details", new { id = item.Id }, new { @class = "btn btn-primary w-100" })
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+@section scripts{
+    <script src="~/Scripts/myscript/owl.carousel.js"></script>
+    <script src="~/Scripts/myscript/custom.js"></script>
+}
+
+
+
+@*<div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="card col-lg-3 col-md-12 m-3 shadow-lg p-3 mb-5 bg-white rounded border-dark" style="width: 18rem;">
+                <img class="card-img-top" src="~/Content/images/@item.image" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text text-primary text-xl-left"> price : @item.price LE</p>
+                    @Html.ActionLink("Detalis", "Details", new { id = item.Id }, new { @class = "btn btn-primary w-100" })
+
+                </div>
+            </div>
+        }
+    </div>*@
+

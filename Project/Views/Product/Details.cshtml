@@ -1,0 +1,107 @@
+﻿
+@model Project.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+<link href="~/Content/product.css" rel="stylesheet" />
+<link href="~/Content/product_responsive.css" rel="stylesheet" />
+
+
+<div class="home">
+    <div class="home_container">
+        <img class="img-fluid" src="~/Content/images/@Model.Categories.Imagecat" alt="Card image" />
+    </div>
+</div>
+
+<div class="product_details">
+    <div class="container">
+        <div class="row details_row">
+
+            <!-- Product Image -->
+            <div class="col-6">
+                <div class="details_image">
+                    <div class="details_image_large">
+                        <img src="~/Content/images/@Model.image" alt="">
+                        <div class="product_extra product_new">
+                            <a href="categories.html">New</a>
+                        </div>
+                        .
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Product Content -->
+            <div class="col-lg-6">
+                <div class="details_content">
+                    <div class="details_name"> @Model.Name</div>
+                    <div class="details_discount"></div>
+                    <div class="details_price">@Model.price LE</div>
+
+                    <!-- In Stock -->
+                    <div class="in_stock_container">
+                        <div class="availability">Availability:</div>
+                        <span>In Stock</span>
+                    </div>
+                    <div class="details_text">
+                        <p> @Model.Description</p>
+                    </div>
+
+                    <!-- Product Quantity -->
+                    <div class="product_quantity_container">
+                        @*<div class="product_quantity clearfix">
+                            <span>Qty</span>
+                            <input id="quantity_input" type="text" pattern="[0-9]*" value="1">
+                            <div class="quantity_buttons">
+                                <div id="quantity_inc_button" class="quantity_inc quantity_control"><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
+                                <div id="quantity_dec_button" class="quantity_dec quantity_control"><i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+                            </div>
+                        </div>*@
+
+                        <div class="col text-center">
+                            @using (Html.BeginForm("AddToCart", "Cart"))
+                            {
+                                <div class="pull-right">
+                                    @Html.HiddenFor(p => p.Id)
+                                    @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                                    <input type="submit" class="btn btn-success" value="Add to Cart">
+                                </div>
+
+                            }
+                            <br/>
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <div><a href="/Product/Edit/@Model.Id" class="btn btn-info">Edit</a></div><br/>
+                                <div><a href="/Product/Delete/@Model.Id" class="btn btn-danger">Delete</a></div>
+                            }
+
+                        </div>
+
+                        <!-- Share -->
+                        <div class="details_share">
+                            <span>Share:</span>
+                            <ul>
+                                <li><a href="#"><i class="fab fa-pinterest" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            @Html.ActionLink("Return To Home", "Index", "Product", null, new { @class = "btn btn-primary" })
+        </div>
+    </div>
+
+<br />
+
+
+    @section scripts{
+        <script src="~/Scripts/myscript/owl.carousel.js"></script>
+        <script src="~/Scripts/myscript/custom.js"></script>
+    }
+
+

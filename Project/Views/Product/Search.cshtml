@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Project.Models.Product>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+    <style>
+        .body-content {
+            padding-left: 60px;
+            padding-right: 60px;
+            padding-top: 135px;
+        }
+    </style>
+    @*<div style="display:flex;margin-left:5px">
+        @foreach (var item in Model)
+        {
+            <div class="card" style="width:400px">
+                <img class="card-img-top" src="~/Content/images/@item.image" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    <h4 class="card-title">Name: @item.Name</h4>
+                    <p class="card-text">@item.Category</p>
+                    <a href="#" class="btn btn-primary">price:@item.price</a>
+                </div>
+            </div>
+
+        }
+    </div>*@
+
+
+
+
+        <div class="product_grid">
+            <div class="row">
+                <!-- Product -->
+                @foreach (var item in Model)
+                {
+                    <div class="product col-md-3">
+                        <div class="product_image"><img src="~/Content/images/@item.image" alt=""></div>
+                        <div class="product_extra product_new">New</div>
+                        <div class="product_content">
+                            <div class="product_title"><a href="@Url.Action("Details", "Product", new { id=item.Id})">@Html.DisplayFor(modelItem => item.Name)</a></div>
+                            <div class="product_price">@Html.DisplayFor(modelItem => item.price)</div><br />
+                            @Html.ActionLink("Detalis", "Details", new { id = item.Id }, new { @class = "btn btn-primary w-100" })
+
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+        @section scripts{
+            <script src="~/Scripts/myscript/custom.js"></script>
+        }
+

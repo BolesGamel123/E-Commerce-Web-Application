@@ -1,0 +1,80 @@
+﻿@model Project.Models.CartIndexViewModel
+@{
+    ViewBag.Title = "Cart";
+}
+
+<style>
+
+    .body-content {
+        padding-left: 60px;
+        padding-right: 60px;
+        padding-top: 135px;
+    }
+    .footer {
+        position: fixed !important;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        z-index: 1;
+    }
+
+    #cartTabel td {
+        vertical-align: middle;
+    }
+</style>
+<h2>Your Cart</h2>
+<table class="table" id="cartTabel">
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th>Image</th>
+            <th>Quantity</th>
+            <th class="text-right">Price</th>
+
+            <th class="text-right">Subtotal</th>
+            <th class="text-right">Setting</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.Cart.Lines)
+        {
+            <tr>
+                <td>@line.product.Name</td>
+                <td><img class="card-img-top" src="~/Content/images/@line.product.image" alt="Card image" style="width:120px;height:90px;"></td>
+                <td class="text-center">@line.Quantity</td>
+                <td class="text-center">@line.product.price Pound</td>
+                <td class="text-center">@((line.Quantity * line.product.price))Pound</td>
+                <td class="text-center">
+                    @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                    {
+                        @Html.Hidden("id", line.product.Id)
+                        @Html.HiddenFor(x => x.ReturnUrl)
+                        <input class="btn btn-warning btn-sm" type="submit" value="Remove" />
+
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Total :</td>
+            <td class="text-right">
+                @Model.Cart.ComputeTotalValue() Pound
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<br />
+
+<div class="text-center">
+    <a class="btn btn-primary" href="@Model.ReturnUrl">Continue Shopping</a>
+    @Html.ActionLink("Order Now", "CreateOrder", "Cart", null, new { @class = "btn btn-primary" })
+
+</div>
+<br/>
+@section scripts{
+    <script src="~/Scripts/myscript/custom.js"></script>
+}

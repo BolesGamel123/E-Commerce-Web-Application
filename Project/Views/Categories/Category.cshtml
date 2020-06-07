@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Project.Models.Categories>
+
+@*@{
+        ViewBag.Title = "Category";
+    }*@
+    <style>
+        .body-content {
+            padding-left: 60px;
+            padding-right: 60px;
+            padding-top: 135px;
+        }
+    </style>
+<div class="row">
+    <div class="col">
+
+                @foreach (var item in Model)
+                {
+
+                    <div class="card mb-3">
+                        <img class="card-img-top" src="~/Content/images/@item.Imagecat" alt="Card image cap">
+                        <div class="card-body">
+                            <h2 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h2>
+                            <p class="card-text">  @Html.DisplayFor(modelItem => item.Description).</p>
+                            @Html.ActionLink("Show Products", "GetProductsForCategory", "Product", new { id = item.Id }, new { @class = "btn btn-info" })
+
+                        </div>
+                    </div>
+                }
+            </div>
+            </div>
+            @section scripts{
+                <script src="~/Scripts/myscript/custom.js"></script>
+            }
