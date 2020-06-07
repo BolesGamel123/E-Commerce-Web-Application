@@ -1,6 +1,8 @@
-*.cs linguist-detectable=true
+*.aspx linguist-detectable=true
 *.js linguist-detectable=false
 *.css linguist-detectable=false
 *.html linguist-detectable=false
+*.aspx linguist-vendored
+
 
 
